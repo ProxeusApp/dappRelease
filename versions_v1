@@ -1,6 +1,6 @@
 {
-	"Version": "1.0.4",
-	"Darwin":  "https://github.com/ProxeusApp/dappRelease/raw/master/releases/1.0.4/darwin-amd64/Proxeus.app/Contents/MacOS/Proxeus",
-	"Linux":   "https://github.com/ProxeusApp/dappRelease/raw/master/releases/1.0.4/linux-amd64/Proxeus",
-	"Windows": "https://github.com/ProxeusApp/dappRelease/raw/master/releases/1.0.4/windows-amd64/Proxeus.exe"
+	"Version": "2.0.0",
+	"Darwin":  "https://github.com/ProxeusApp/dappRelease/raw/master/releases/2.0.0/darwin-amd64/Proxeus.dmg",
+	"Linux":   "https://github.com/ProxeusApp/dappRelease/raw/master/releases/2.0.0/linux-amd64/Proxeus",
+	"Windows": "https://github.com/ProxeusApp/dappRelease/raw/master/releases/2.0.0/windows-amd64/Proxeus.exe"
 }
